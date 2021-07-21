@@ -1,1 +1,1 @@
-
+Final Score Keeper Project, with an updated UI using the CSS framework Bulma. A score limiter is set, when the value is changed mid-game, the game's score is reset as well. Score updates as usual, however at the end of the game winning player's score turns green, while the loser's turns red. The increment button is greyed out, and is not accessible until the game is reset by either using the reset button, or changing the score.
